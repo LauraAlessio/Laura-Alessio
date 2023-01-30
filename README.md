@@ -1,4 +1,4 @@
-# Olá! Sou a LauraAlessio✨
+# Olá! Sou a Laura Alessio✨
 
 -💻Trabalho com Front-end
 
